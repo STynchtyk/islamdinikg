@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../islamdini"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "islamdini"
+	}
+}
